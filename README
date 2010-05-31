@@ -1,0 +1,27 @@
+
+Ok, here it is!
+
+These are the files for the DeltaStarliner G42 variant of the DGa2 SSTO project for Orbiter
+
+the G42, is the MASTER VARIANT - maintained my me (Moach) and should be left unaltered - all changesshould be pushed as new branches, named after the respective variant therein...
+
+this is for two reasons, first: the master variant should always be in a working state, second: i won't double-check before pushing my work into this branch, so changes may be ruthlessly overwitten...
+
+so leave the G42 branch as is... i'll worry about it ;)
+
+
+other than that, go nutz!
+the idea of having "variants" is to allow you to take the project wherever ways you choose and not have to worry about others agreeing with it or not 
+
+please add a README like this one to your variants describing how they are different from the G42 master - this way, whatever awesome features i find fitting, can be merged into it :) 
+
+
+i strongly recommend taking your time to learn git, it is a very awesome tool - plus, if you wanna upload any changes you've made to the project, you'll need it anyways
+
+
+*note* you don't need git if you just wanna take 'er for a ride - you can download the files from the 'download source' button above ad install it like any other addon
+
+
+cheerz,
+
+Moach
